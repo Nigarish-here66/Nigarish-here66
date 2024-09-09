@@ -1,5 +1,5 @@
-## Hi there ✨ Nagarash Here!
-### Solving problems, one code at a time
+##        I'm Nagarash! 
+###   Solving problems, one code at a time
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -8,13 +8,13 @@
 📫 You can reach me at [nagarashfateh@gmail.com](mailto:nagarashfateh@gmail.com)
 
 
-### Connect with Me:
+###   ✨ SOCIAL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nagarash-fateh-247912313/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://www.instagram.com/_nagarash_fateh/)
 
-### Languages and Tools:
+###   ⚡ TECH STACK
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white) 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white) 
@@ -27,6 +27,8 @@
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-purple?logo=figma&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) 
+![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=white)
+
 
 
 
