@@ -14,27 +14,17 @@
 
 ### Languages and Tools:
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
-
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow)
-
-![OOP](https://img.shields.io/badge/OOP-%23F7DF1E.svg?logo=OOP&logoColor=black)
-
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
-
-![UI/UX](https://img.shields.io/badge/UI%2FUX-purple?logo=figma&logoColor=white)
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white) 
+![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow) 
+![OOP](https://img.shields.io/badge/OOP-%23F7DF1E.svg?logo=OOP&logoColor=black) 
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white) 
+![UI/UX](https://img.shields.io/badge/UI%2FUX-purple?logo=figma&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) 
 
 
 
