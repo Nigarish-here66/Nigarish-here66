@@ -1,6 +1,8 @@
 ## Hi there ✨ Nagarash Here!
 ### Solving problems, one code at a time
 
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+
 💬 Ask me about anything
 
 📫 You can reach me at [nagarashfateh@gmail.com](mailto:nagarashfateh@gmail.com)
