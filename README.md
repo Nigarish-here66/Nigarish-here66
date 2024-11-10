@@ -1,4 +1,4 @@
-![Profile banner](![image](https://github.com/user-attachments/assets/818e6cf3-4225-491b-ad57-2c91e2ad891f)
+<img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 # Nagarash Fateh
 
