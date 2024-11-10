@@ -1,21 +1,15 @@
 
 # Nagarash Fateh
 
----
-
 Hi There! - Welcome to My Profile!
 
 > Transitioning Career to Developer 
 > Studying:
 > - Bachelor's in Software Engineering
 
----
-
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagarash-fateh-247912313/)
 [![Instagram](https://img.shields.io/badge/-Instagram-red?logo=instagram&logoColor=white)](https://www.instagram.com/_nagarash_fateh/)
-
----
 
 ### 💻 Main Stack:
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white) 
@@ -31,14 +25,12 @@ Hi There! - Welcome to My Profile!
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) 
 ![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=white)
 
----
-
 ### 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nigarish-here66&theme=dark&hide_border=true)](https://git.io/streak-stats)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nigarish-here66&show_icons=true&theme=dark&hide_border=true)
 
 ### 🚀 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nigarish-here66&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
