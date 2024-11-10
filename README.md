@@ -1,7 +1,7 @@
 
 # Nagarash Fateh
 
-![Profile banner](https://placekitten.com/800/100) <!-- Replace with your own banner URL -->
+---
 
 Hi There! - Welcome to My Profile!
 
