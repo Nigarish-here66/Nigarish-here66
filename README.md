@@ -1,21 +1,23 @@
-##        I'm Nagarash! 
-###   Solving problems, one code at a time
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+# Nagarash Fateh
 
-💬 Ask me about anything
+![Profile banner](https://placekitten.com/800/100) <!-- Replace with your own banner URL -->
 
-📫 You can reach me at [nagarashfateh@gmail.com](mailto:nagarashfateh@gmail.com)
+Hi There! - Welcome to My Profile!
 
+> Transitioning Career to Developer 
+> Studying:
+> - Bachelor's in Software Engineering
 
-###   ✨ SOCIAL
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nagarash-fateh-247912313/)
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagarash-fateh-247912313/)
+[![Instagram](https://img.shields.io/badge/-Instagram-red?logo=instagram&logoColor=white)](https://www.instagram.com/_nagarash_fateh/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://www.instagram.com/_nagarash_fateh/)
+---
 
-###   ⚡ TECH STACK
-
+### 💻 Main Stack:
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white) 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white) 
@@ -28,6 +30,20 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) 
 ![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nigarish-here66&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nigarish-here66&show_icons=true&theme=dark&hide_border=true)
+
+### 🚀 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+> *Generated with ❤️ by [Nagarash Fateh](https://github.com/Nigarish-here66)*
+
 
 
 
