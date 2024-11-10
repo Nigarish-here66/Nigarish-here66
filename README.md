@@ -1,4 +1,4 @@
-
+![Profile banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fritiksharma-code&psig=AOvVaw0enTbtbGZTHfncUsdHFUgx&ust=1731319263210000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCzn4HB0YkDFQAAAAAdAAAAABAE)
 # Nagarash Fateh
 
 Hi There! - Welcome to My Profile!
