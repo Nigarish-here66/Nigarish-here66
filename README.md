@@ -16,6 +16,7 @@ Studying:
 
 ### 💻 Main Stack:
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white) 
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white) 
