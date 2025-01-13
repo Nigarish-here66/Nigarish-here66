@@ -11,8 +11,8 @@ Studying:
 ![Profile views](https://komarev.com/ghpvc/?username=Nigarish-here66&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagarash-fateh-247912313/)
-[![Instagram](https://img.shields.io/badge/-Instagram-red?logo=instagram&logoColor=white)](https://www.instagram.com/_nagarash_fateh/)
+[!(https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagarash-fateh-247912313/)
+[!(https://img.shields.io/badge/-Instagram-red?logo=instagram&logoColor=white)](https://www.instagram.com/_nagarash_fateh/)
 
 ### 💻 Main Stack:
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white) 
