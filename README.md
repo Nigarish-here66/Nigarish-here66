@@ -24,6 +24,16 @@ Studying:
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) 
 ![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-blue?logo=php&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-yellow?logo=firebase&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=nodedotjs&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white)  
+![Android](https://img.shields.io/badge/Android-green?logo=android&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)  
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-orange?logo=adobeillustrator&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/Photoshop-blue?logo=adobephotoshop&logoColor=white)  
+
 
 ### 📊 GitHub Stats
 <center>
