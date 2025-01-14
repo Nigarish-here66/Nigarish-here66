@@ -11,22 +11,26 @@ Studying:
 ![Profile views](https://komarev.com/ghpvc/?username=Nigarish-here66&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 💻 Main Stack:
-![Android](https://img.shields.io/badge/-none?logo=android&logoColor=white&labelColor=black&style=flat-square)
-![Bootstrap](https://img.shields.io/badge/-none?logo=bootstrap&logoColor=white&labelColor=black&style=flat-square)
-![C](https://img.shields.io/badge/-none?logo=c&logoColor=white&labelColor=black&style=flat-square)
-![C++](https://img.shields.io/badge/-none?logo=cplusplus&logoColor=white&labelColor=black&style=flat-square)
-![CSS3](https://img.shields.io/badge/-none?logo=css3&logoColor=white&labelColor=black&style=flat-square)
-![Figma](https://img.shields.io/badge/-none?logo=figma&logoColor=white&labelColor=black&style=flat-square)
-![Flutter](https://img.shields.io/badge/-none?logo=flutter&logoColor=white&labelColor=black&style=flat-square)
-![HTML5](https://img.shields.io/badge/-none?logo=html5&logoColor=white&labelColor=black&style=flat-square)
-![Java](https://img.shields.io/badge/-none?logo=java&logoColor=white&labelColor=black&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-none?logo=javascript&logoColor=yellow&labelColor=black&style=flat-square)
-![MySQL](https://img.shields.io/badge/-none?logo=mysql&logoColor=white&labelColor=black&style=flat-square)
-![Photoshop](https://img.shields.io/badge/-none?logo=adobephotoshop&logoColor=white&labelColor=black&style=flat-square)
-![Postman](https://img.shields.io/badge/-none?logo=postman&logoColor=white&labelColor=black&style=flat-square)
-![Python](https://img.shields.io/badge/-none?logo=python&logoColor=yellow&labelColor=black&style=flat-square)
-
-
+![MySQL](https://img.shields.io/badge/-?logo=mysql&logoColor=white&labelColor=white&style=flat-square)  
+![React](https://img.shields.io/badge/-?logo=react&logoColor=white&labelColor=white&style=flat-square)  
+![C](https://img.shields.io/badge/-?logo=c&logoColor=white&labelColor=white&style=flat-square)  
+![C++](https://img.shields.io/badge/-?logo=cplusplus&logoColor=white&labelColor=white&style=flat-square)  
+![Java](https://img.shields.io/badge/-?logo=java&logoColor=white&labelColor=white&style=flat-square)  
+![Python](https://img.shields.io/badge/-?logo=python&logoColor=yellow&labelColor=white&style=flat-square)  
+![HTML](https://img.shields.io/badge/-?logo=html5&logoColor=white&labelColor=white&style=flat-square)  
+![CSS](https://img.shields.io/badge/-?logo=css3&logoColor=white&labelColor=white&style=flat-square)  
+![Figma](https://img.shields.io/badge/-?logo=figma&logoColor=white&labelColor=white&style=flat-square)  
+![JavaScript](https://img.shields.io/badge/-?logo=javascript&logoColor=yellow&labelColor=white&style=flat-square)  
+![Linux](https://img.shields.io/badge/-?logo=linux&logoColor=white&labelColor=white&style=flat-square)  
+![PHP](https://img.shields.io/badge/-?logo=php&logoColor=white&labelColor=white&style=flat-square)  
+![Bootstrap](https://img.shields.io/badge/-?logo=bootstrap&logoColor=white&labelColor=white&style=flat-square)  
+![Firebase](https://img.shields.io/badge/-?logo=firebase&logoColor=white&labelColor=white&style=flat-square)  
+![Node.js](https://img.shields.io/badge/-?logo=nodedotjs&logoColor=white&labelColor=white&style=flat-square)  
+![Postman](https://img.shields.io/badge/-?logo=postman&logoColor=white&labelColor=white&style=flat-square)  
+![Android](https://img.shields.io/badge/-?logo=android&logoColor=white&labelColor=white&style=flat-square)  
+![Git](https://img.shields.io/badge/-?logo=git&logoColor=white&labelColor=white&style=flat-square)  
+![Adobe Illustrator](https://img.shields.io/badge/-?logo=adobeillustrator&logoColor=white&labelColor=white&style=flat-square)  
+![Photoshop](https://img.shields.io/badge/-?logo=adobephotoshop&logoColor=white&labelColor=white&style=flat-square)  
 
 
 ### 📊 GitHub Stats
