@@ -19,6 +19,7 @@ Studying:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nigarish-here66&theme=dark&hide_border=true" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Nigarish-here66&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
 </center>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nigarish-here66&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
